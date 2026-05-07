@@ -1,0 +1,14 @@
+{
+  "weights": {
+    "complexity": 0.3,
+    "player_count": 2.2,
+    "game_type": 12.4,
+    "duration": 12.4,
+    "mechanics": 12.4,
+    "genre": 8.2,
+    "user_params": 52.1
+  },
+  "min_threshold": 0.4702194357366771,
+  "max_recs": 10,
+  "missing_data_penalty": 0.8683385579937304
+}
